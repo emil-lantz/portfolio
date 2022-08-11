@@ -1,24 +1,39 @@
-# Hi. I'm Emil.
+## Hi there. I'm Emil.
 
-You can use the [editor on GitHub](https://github.com/emil-lantz/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently studying my masters degree within cyber security at Royal Institute of Technology, KTH, in Stockholm, Sweden. I have a bachelors degree within computer science also from KTH and a work background within the financial sector as sell-side broker and as an analyst.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently working part-time as a QA Analyst at Nasdaq in Stockholm, Sweden. I do test- and general automation for the European Market Operations department. Most of my work is done in Python and CI/CD in GitLab.
 
-## Resumé
+### My Resumé
 
 Down below is my resumé.
 
 ```markdown
-QA Analyst
-Financial Analyst
+WORK EXPERIENCE
+
+QA Analyst, Nasdaq, Stockholm, Sweden. [March 2022 - ]
+Financial Analyst, Nasdaq, Stockholm Sweden.
+Banker, Avanza Bank, Stockholm Sweden.
+
+EDUCATION
+
+M.Sc Cyber Security, Royal Institute of Technology, Stockholm Sweden.
+B.Sc Computer Science, Royal Institute of Technology, Stockholm Sweden.
+
+SKILLS
+
+Experienced in... 
+Java, C, Python, MySQL, PostgreSQL, React.js, Node.js, Javascript.
+
+Familiar with...
+Haskell, VBA, Prolog, MIPS, Assembly.
+
+TOOLS
+
+Experienced in...
+GitLab CI/CD, GitHub, Jira, Robot Framework, Cypress, Docker, UNIX environments.
+
+LANGUAGES
+
+Swedish, English, Spanish.
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emil-lantz/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
